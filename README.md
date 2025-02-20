@@ -1,4 +1,4 @@
-# GENAI Code Reviewer
+# AI Code Reviewer
 
 ## Overview
 **AI Code Reviewer** is a **GenAI-powered** tool that analyzes, detects bugs, and optimizes code. It uses **AI models** to provide intelligent suggestions, ensuring clean and efficient code. Built with **Python** and **Streamlit**, it offers a user-friendly UI for seamless interaction.
