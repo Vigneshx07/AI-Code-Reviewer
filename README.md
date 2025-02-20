@@ -11,6 +11,6 @@
 
 ## Links
 - **GitHub**: https://github.com/Vigneshx07/ai_code_reviewer.git
-- **App Link**: https://ai-code-reviewer-application1.streamlit.app/
+- **App Link**: https://aicodereviewer-lvdkquvbphj4udrdim53dx.streamlit.app/
 - **LinkedIn**: 
 
