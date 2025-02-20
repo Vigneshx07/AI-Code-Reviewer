@@ -1,2 +1,16 @@
-# GenAI-Code-Reviewer
-GenAI Code Reviewer is an AI-powered Python app that analyzes Python code for bugs, errors, and improvements. Built with **Streamlit** and powered by **OpenAI GPT-4**, it provides real-time AI-generated feedback with suggested fixes. With an intuitive UI, it helps developers enhance code quality. Easily deployable on Streamlit Cloud,
+# AI Code Reviewer
+
+## Overview
+**AI Code Reviewer** is a **GenAI-powered** tool that analyzes, detects bugs, and optimizes code. It uses **AI models** to provide intelligent suggestions, ensuring clean and efficient code. Built with **Python** and **Streamlit**, it offers a user-friendly UI for seamless interaction.
+
+## Features
+- **AI-driven Code Review**: Detects issues and suggests improvements
+- **Bug Detection & Fixing**: Identifies and corrects errors automatically
+- **Code Optimization**: Enhances performance with AI suggestions
+- **Interactive UI**: Built with **Streamlit** for an easy-to-use experience
+
+## Links
+- **GitHub**: https://github.com/JanviMerugu/ai_code_reviewer.git
+- **App Link**: https://ai-code-reviewer-application1.streamlit.app/
+- **LinkedIn**: 
+
